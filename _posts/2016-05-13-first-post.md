@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First!"
-date:   2016-05-13 16:54:10 -0400
+title: "First!"
+comments: true
 ---
 They say, "you have to go to school." So I went to school.
 
