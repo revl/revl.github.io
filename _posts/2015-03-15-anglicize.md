@@ -26,7 +26,7 @@ I couldn't have put it better myself:
 
 Nailed it.
 
-But hey, there's no need to hold out hope for language reforms.
+But hey, there's no need to hold out for language reforms.
 I have [a script that not only removes diacritics, but
 also transliterates non-Latin characters into English
 phonemes](https://github.com/revl/anglicize). Problem solved.
