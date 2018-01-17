@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Down with diacritics"
-comments: true
 ---
 
 I've just come across an anonymous post on an obscure forum.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Perversion with Subversion"
-comments: true
 ---
 
 The world would be a darker, colder place if not for my nifty
